@@ -1,4 +1,0 @@
-Comecando a busca pelos quadrados perfeitos:
-1738628 
-1683872 
-602272 
